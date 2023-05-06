@@ -1,0 +1,79 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "KeychainAccess",
+        "repositoryURL": "https://github.com/kishikawakatsumi/KeychainAccess.git",
+        "state": {
+          "branch": null,
+          "revision": "654d52d30f3dd4592e944c3e0bccb53178c992f6",
+          "version": "4.2.1"
+        }
+      },
+      {
+        "package": "secp256k1",
+        "repositoryURL": "https://github.com/greymass/secp256k1.git",
+        "state": {
+          "branch": "master",
+          "revision": "24482220d1e7731f6b48df20096d0de840a63af2",
+          "version": null
+        }
+      },
+      {
+        "package": "Starscream",
+        "repositoryURL": "https://github.com/daltoniam/Starscream.git",
+        "state": {
+          "branch": null,
+          "revision": "e6b65c6d9077ea48b4a7bdda8994a1d3c6969c8d",
+          "version": "3.1.1"
+        }
+      },
+      {
+        "package": "BigNumber",
+        "repositoryURL": "https://github.com/mkrd/Swift-BigInt.git",
+        "state": {
+          "branch": "master",
+          "revision": "8e8423ba6d7674bfd3d324d229014476e48568f5",
+          "version": null
+        }
+      },
+      {
+        "package": "swift-eosio",
+        "repositoryURL": "https://github.com/ProtonProtocol/swift-eosio.git",
+        "state": {
+          "branch": "master",
+          "revision": "12e177127579701cd06aa1b919d1546176f85bcc",
+          "version": null
+        }
+      },
+      {
+        "package": "swift-nio-zlib-support",
+        "repositoryURL": "https://github.com/apple/swift-nio-zlib-support.git",
+        "state": {
+          "branch": null,
+          "revision": "37760e9a52030bb9011972c5213c3350fa9d41fd",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "QueryStringCoder",
+        "repositoryURL": "https://github.com/jnordberg/swift-query-string-coder.git",
+        "state": {
+          "branch": "master",
+          "revision": "874a4e31d7c77f3fec56f893229f416e7604da4d",
+          "version": null
+        }
+      },
+      {
+        "package": "WebOperations",
+        "repositoryURL": "https://github.com/ProtonProtocol/WebOperations.git",
+        "state": {
+          "branch": "master",
+          "revision": "214661ef5f5a34c2539f14a91118ed2c5359d4ef",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
